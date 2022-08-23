@@ -20,6 +20,8 @@ Runs a Json-server on port 3001 which is used to store user ratings of quotes.
 - Share quotes on social media (npm package next-share)
 - Allow users to rate quotes and view ther people's ratings (in this case a random rating is shown after rating yourself)
 
+Ratings of other users will only be shown when there's already a rating prior to rating the quote yourself. For this use-case this can be your own previous rating.
+
 This has been my first react project and tried to follow best practices to the best of my capabilities.
 
 Feel free to contact me if you have any questions  
